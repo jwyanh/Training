@@ -1,0 +1,15 @@
+/Users/jiewenyang/Projects/GetWorkingDays/GetWorkingDays/obj/Debug/net6.0/GetWorkingDays.csproj.AssemblyReference.cache
+/Users/jiewenyang/Projects/GetWorkingDays/GetWorkingDays/obj/Debug/net6.0/GetWorkingDays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiewenyang/Projects/GetWorkingDays/GetWorkingDays/obj/Debug/net6.0/GetWorkingDays.AssemblyInfoInputs.cache
+/Users/jiewenyang/Projects/GetWorkingDays/GetWorkingDays/obj/Debug/net6.0/GetWorkingDays.AssemblyInfo.cs
+/Users/jiewenyang/Projects/GetWorkingDays/GetWorkingDays/obj/Debug/net6.0/GetWorkingDays.csproj.CoreCompileInputs.cache
+/Users/jiewenyang/Projects/GetWorkingDays/GetWorkingDays/bin/Debug/net6.0/GetWorkingDays
+/Users/jiewenyang/Projects/GetWorkingDays/GetWorkingDays/bin/Debug/net6.0/GetWorkingDays.deps.json
+/Users/jiewenyang/Projects/GetWorkingDays/GetWorkingDays/bin/Debug/net6.0/GetWorkingDays.runtimeconfig.json
+/Users/jiewenyang/Projects/GetWorkingDays/GetWorkingDays/bin/Debug/net6.0/GetWorkingDays.dll
+/Users/jiewenyang/Projects/GetWorkingDays/GetWorkingDays/bin/Debug/net6.0/ref/GetWorkingDays.dll
+/Users/jiewenyang/Projects/GetWorkingDays/GetWorkingDays/bin/Debug/net6.0/GetWorkingDays.pdb
+/Users/jiewenyang/Projects/GetWorkingDays/GetWorkingDays/obj/Debug/net6.0/GetWorkingDays.dll
+/Users/jiewenyang/Projects/GetWorkingDays/GetWorkingDays/obj/Debug/net6.0/ref/GetWorkingDays.dll
+/Users/jiewenyang/Projects/GetWorkingDays/GetWorkingDays/obj/Debug/net6.0/GetWorkingDays.pdb
+/Users/jiewenyang/Projects/GetWorkingDays/GetWorkingDays/obj/Debug/net6.0/GetWorkingDays.genruntimeconfig.cache
