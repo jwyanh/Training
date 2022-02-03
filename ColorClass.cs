@@ -12,6 +12,13 @@ class Color
          this.Green = Green;
          this.Alpha = Alpha;
 		}
+	
+	public Color(int Red, int Blue, int Green)
+		{
+		 this.Red= Red;
+         this.Blue = Blue;
+         this.Green = Green;
+	
 		
  		public float greyscale
         {
