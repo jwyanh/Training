@@ -1,0 +1,15 @@
+/Users/jiewenyang/Projects/ReverseArray/ReverseArray/obj/Debug/net6.0/ReverseArray.csproj.AssemblyReference.cache
+/Users/jiewenyang/Projects/ReverseArray/ReverseArray/obj/Debug/net6.0/ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiewenyang/Projects/ReverseArray/ReverseArray/obj/Debug/net6.0/ReverseArray.AssemblyInfoInputs.cache
+/Users/jiewenyang/Projects/ReverseArray/ReverseArray/obj/Debug/net6.0/ReverseArray.AssemblyInfo.cs
+/Users/jiewenyang/Projects/ReverseArray/ReverseArray/obj/Debug/net6.0/ReverseArray.csproj.CoreCompileInputs.cache
+/Users/jiewenyang/Projects/ReverseArray/ReverseArray/bin/Debug/net6.0/ReverseArray
+/Users/jiewenyang/Projects/ReverseArray/ReverseArray/bin/Debug/net6.0/ReverseArray.deps.json
+/Users/jiewenyang/Projects/ReverseArray/ReverseArray/bin/Debug/net6.0/ReverseArray.runtimeconfig.json
+/Users/jiewenyang/Projects/ReverseArray/ReverseArray/bin/Debug/net6.0/ReverseArray.dll
+/Users/jiewenyang/Projects/ReverseArray/ReverseArray/bin/Debug/net6.0/ref/ReverseArray.dll
+/Users/jiewenyang/Projects/ReverseArray/ReverseArray/bin/Debug/net6.0/ReverseArray.pdb
+/Users/jiewenyang/Projects/ReverseArray/ReverseArray/obj/Debug/net6.0/ReverseArray.dll
+/Users/jiewenyang/Projects/ReverseArray/ReverseArray/obj/Debug/net6.0/ref/ReverseArray.dll
+/Users/jiewenyang/Projects/ReverseArray/ReverseArray/obj/Debug/net6.0/ReverseArray.pdb
+/Users/jiewenyang/Projects/ReverseArray/ReverseArray/obj/Debug/net6.0/ReverseArray.genruntimeconfig.cache
