@@ -1,0 +1,15 @@
+/Users/jiewenyang/Projects/EmployeeSystem/EmployeeSystem/obj/Debug/net6.0/EmployeeSystem.csproj.AssemblyReference.cache
+/Users/jiewenyang/Projects/EmployeeSystem/EmployeeSystem/obj/Debug/net6.0/EmployeeSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiewenyang/Projects/EmployeeSystem/EmployeeSystem/obj/Debug/net6.0/EmployeeSystem.AssemblyInfoInputs.cache
+/Users/jiewenyang/Projects/EmployeeSystem/EmployeeSystem/obj/Debug/net6.0/EmployeeSystem.AssemblyInfo.cs
+/Users/jiewenyang/Projects/EmployeeSystem/EmployeeSystem/obj/Debug/net6.0/EmployeeSystem.csproj.CoreCompileInputs.cache
+/Users/jiewenyang/Projects/EmployeeSystem/EmployeeSystem/bin/Debug/net6.0/EmployeeSystem
+/Users/jiewenyang/Projects/EmployeeSystem/EmployeeSystem/bin/Debug/net6.0/EmployeeSystem.deps.json
+/Users/jiewenyang/Projects/EmployeeSystem/EmployeeSystem/bin/Debug/net6.0/EmployeeSystem.runtimeconfig.json
+/Users/jiewenyang/Projects/EmployeeSystem/EmployeeSystem/bin/Debug/net6.0/EmployeeSystem.dll
+/Users/jiewenyang/Projects/EmployeeSystem/EmployeeSystem/bin/Debug/net6.0/ref/EmployeeSystem.dll
+/Users/jiewenyang/Projects/EmployeeSystem/EmployeeSystem/bin/Debug/net6.0/EmployeeSystem.pdb
+/Users/jiewenyang/Projects/EmployeeSystem/EmployeeSystem/obj/Debug/net6.0/EmployeeSystem.dll
+/Users/jiewenyang/Projects/EmployeeSystem/EmployeeSystem/obj/Debug/net6.0/ref/EmployeeSystem.dll
+/Users/jiewenyang/Projects/EmployeeSystem/EmployeeSystem/obj/Debug/net6.0/EmployeeSystem.pdb
+/Users/jiewenyang/Projects/EmployeeSystem/EmployeeSystem/obj/Debug/net6.0/EmployeeSystem.genruntimeconfig.cache
