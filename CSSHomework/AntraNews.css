@@ -1,0 +1,77 @@
+div[name="AntraFooter"]{
+    background-color: DarkGray;
+    border: 1px solid black;
+    width: 80%;
+
+ }
+ 
+ div{
+    color:Black;
+    float: left;
+    width: 20%;
+    margin-left:2.5%;
+    margin-right:2.5%;
+ }
+ 
+ a {
+    color:Black;
+    text-decoration: none;
+ }
+ 
+ .fb-like{
+    float: right;}
+
+    
+nav button {
+    margin-right: 50px;
+    color: aliceblue;
+    background-color: orange;
+    width: 100px;
+    height: 50px;
+}
+
+
+.content {
+    flex-grow: 1;
+    background-color: lightgray;
+    padding: 30px 100px;
+    position: relative;
+}
+
+
+.contain-card{
+    display: flex;
+    align-content:center;
+    justify-content:center;
+}
+
+.card {
+    float: left;
+    width: 500px;
+    height: 500px;
+    margin-right: 100px;
+    background: white;
+}
+
+.page {
+    display: flex;
+    align-content: end;
+    list-style-type: none;
+    margin: 2px;
+    position: absolute;
+    bottom: 20px;
+}
+
+.page li {
+        margin: 2px;
+    }
+
+.page button{
+        background-color: cornflowerblue;
+        color:azure;
+    }
+.page button:hover {
+        background-color: orange;
+        color: azure;
+}
+
