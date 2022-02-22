@@ -1,0 +1,53 @@
+var qResult1 =(from x in Courses select x).Count();
+qResult1.Dump();
+
+var qResult2 =Persons.Where(x=>x.Discriminator=="Student").Select(x=>new{x.ID}).Count();
+qResult2.Dump();
+
+var qResult3 =from p in Persons join e in Enrollments 
+on p.ID equals e.StudentID into StudentEnroll
+from se in StudentEnroll join c in Courses
+on se.CourseID equals c.CourseID into StudentCourse
+from sc in StudentCourse
+select new {p.LastName, p.FirstName, se.CourseID, sc.Title};
+qResult3.Dump();
+
+var qResult4 =Persons.Where(x=>x.Discriminator=="Student").Select(x=>new{x.ID, x.FirstName, x.LastName}).OrderBy(x=>x.FirstName);
+qResult4.Dump();
+
+var qResult5 =Persons.Where(x=>x.Discriminator=="Student").Select(x=>new{x.ID, x.FirstName, x.LastName}).OrderByDescending(x=>x.LastName);
+qResult5.Dump();
+
+var qResult6 =Enrollments.Where(x=>x.StudentID == null).Select(x=>new{x.CourseID});
+qResult6.Dump();
+
+void Pagination (int pageSize, int pageNumber=1)
+{
+var pCollection = Persons.Skip(pageSize*(pageNumber-1)).Take(pageSize).Where(x=>x.Discriminator=="Student").Select(x=>new{x.ID, x.FirstName, x.LastName});
+pCollection.Dump();
+}
+Pagination(5,2);
+
+var qResult8 =from p in Persons join o in OfficeAssignments 
+on p.ID equals o.InstructorID into OfficeAssign
+from oa in OfficeAssign 
+select new {p.LastName, p.FirstName, oa.InstructorID, oa.Location};
+qResult8.Dump();
+
+var qResult9 =from o in OfficeAssignments join p in Persons 
+on  o.InstructorID equals p.ID into OfficeAssign
+from oa in OfficeAssign 
+where o.Location == null
+select new {oa.LastName, oa.FirstName, o.InstructorID, o.Location};
+qResult9.Dump();
+
+var qResult10 =from d in Departments join p in Persons 
+on  d.InstructorID equals p.ID into DepartmentPerson
+from dp in DepartmentPerson 
+select new {d.Name, FullName = dp.LastName + " " + dp.FirstName};
+qResult10.Dump();
+
+var qResult11 =from d in Departments 
+where d.Budget>100000
+select new {d.Name, d.Budget};
+qResult11.Dump();
