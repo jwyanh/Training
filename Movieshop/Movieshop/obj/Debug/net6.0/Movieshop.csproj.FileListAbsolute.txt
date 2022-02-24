@@ -1,0 +1,7 @@
+/Users/jiewenyang/Projects/Movieshop/Movieshop/obj/Debug/net6.0/Movieshop.csproj.AssemblyReference.cache
+/Users/jiewenyang/Projects/Movieshop/Movieshop/obj/Debug/net6.0/Movieshop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiewenyang/Projects/Movieshop/Movieshop/obj/Debug/net6.0/Movieshop.AssemblyInfoInputs.cache
+/Users/jiewenyang/Projects/Movieshop/Movieshop/obj/Debug/net6.0/Movieshop.AssemblyInfo.cs
+/Users/jiewenyang/Projects/Movieshop/Movieshop/obj/Debug/net6.0/Movieshop.csproj.CoreCompileInputs.cache
+/Users/jiewenyang/Projects/Movieshop/Movieshop/obj/Debug/net6.0/Movieshop.MvcApplicationPartsAssemblyInfo.cs
+/Users/jiewenyang/Projects/Movieshop/Movieshop/obj/Debug/net6.0/Movieshop.MvcApplicationPartsAssemblyInfo.cache
