@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  movieshop.api:
+    image: ${DOCKER_REGISTRY-}movieshop
+    build:
+      context: .
+      dockerfile: Movieshop/Dockerfile

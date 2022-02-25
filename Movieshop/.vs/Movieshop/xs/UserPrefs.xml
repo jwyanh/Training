@@ -1,4 +1,21 @@
-﻿<Properties StartupConfiguration="{6ED3B3BF-8C31-4171-B98B-FFAC2CBDD9E1}|Default">
+﻿<Properties StartupConfiguration="{B34C5B57-39D3-440A-9245-06F83224E963}|Default">
+  <MonoDevelop.Ide.ItemProperties.ApplicationCore FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Movieshop.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Infrastructure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Movieshop" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
